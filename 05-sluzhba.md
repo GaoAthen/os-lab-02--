@@ -11,5 +11,7 @@
 ## Содержимое логов
 <img width="419" height="108" alt="image" src="https://github.com/user-attachments/assets/4eeed2c8-10c0-4520-b4f7-78f941d3c0ac" />
 
+## Type=oneshot означает что служба запустит какое либо действие, выполнит его и завершится, WantedBy=multi-user.target означает что служба должна быть подключена к цели(multi.user) 
+
 
 
