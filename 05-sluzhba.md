@@ -1,6 +1,5 @@
 ## Содержимое первого и второго файла
-<img width="1668" height="878" alt="image" src="https://github.com/user-attachments/assets/b143ad8c-6a8e-4e51-8ee9-cdd1c0550c57" />
-
+<img width="636" height="175" alt="image" src="https://github.com/user-attachments/assets/f7c5f00a-a6b9-471f-af03-fd6ea3901b1e" />
 
 <img width="633" height="297" alt="image" src="https://github.com/user-attachments/assets/6bae073b-3be5-4535-8d34-9333636b2f3c" />
 
