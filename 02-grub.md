@@ -1,3 +1,5 @@
+## Изменил параметры GRUB_TIMEOUT(Через сколько исчезнет загрузочное окно GRUB), так же добавил параметр GRUB_TIMEOUT_STYLE-menu, оно меняет то как выглядит загрузочное окно GRUB или же будет ли оно появляться в целом.
+
 ## В grub я изменил всего 1 параметр, GRUB_TIMEOUT у меня уже стоял на значении 10
 <img width="148" height="26" alt="image" src="https://github.com/user-attachments/assets/8665b317-676a-4051-ba1f-d118f57411e4" />
 
