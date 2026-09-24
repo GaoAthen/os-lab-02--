@@ -7,11 +7,18 @@ ls: cannot access '/sys/firmware/efi': No such file or directory
 ## Таблица разделов
 <img width="726" height="240" alt="image" src="https://github.com/user-attachments/assets/f9d6e842-4b14-446f-bd18-64f1ba1b39c7" />
 
+(код плохо вставлялся,оставил так)
+
 ## Какое ядро работает на данный момент
-<img width="339" height="43" alt="image" src="https://github.com/user-attachments/assets/3071503c-79b0-4442-8e30-eeed8bca7d48" />
+~~~
+liveuser@localhost-live :~ $ uname -r
+6.19.10-300.fc44.x86_64
+~~~
 
 ## Какие версии ядра установлены и доступны в меню
-<img width="504" height="60" alt="image" src="https://github.com/user-attachments/assets/e339288b-6aee-4dfc-90de-a4ff570929dd" />
-
+~~~
+liveuser@localhost-live :~ $ ls /boot/vmlinuz -*
+/boot/vmlinuz-0-rescue-4189730cf6c94d60bf67890447d58a3b
+/boot/vmlinuz-6.19.10-300.fc44.x86_64
 
 
