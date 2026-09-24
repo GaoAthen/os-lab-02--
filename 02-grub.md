@@ -7,7 +7,7 @@
 <img width="865" height="264" alt="image" src="https://github.com/user-attachments/assets/9f949385-26e0-4cb8-b484-9de493273255" />
 
 ## Загрузочное окно GRUB
-<img width="708" height="388" alt="image" src="https://github.com/user-attachments/assets/6a264de2-60d3-4e21-91a6-5176a011c335" />
+<img width="783" height="430" alt="image" src="https://github.com/user-attachments/assets/68bbd042-9934-4bb4-9abe-c4007fead55e" />
 
 ## Что будет если забыть обновить GRUB? - Произойдёт абсолютно ничего, система загрузится со старыми настройками GRUB
 
