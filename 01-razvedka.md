@@ -1,5 +1,8 @@
 ## Машина загружается через BIOS, я ввёл команду ls /sys/firmware/efi и мне написало что данного каталога не существует 
-<img width="605" height="39" alt="image" src="https://github.com/user-attachments/assets/4efd8bf4-7716-47a5-a057-58b870d45379" />
+~~~
+liveuser@localhost-live :~ $ ls /sys/firmware/efi
+ls: cannot access '/sys/firmware/efi': No such file or directory
+~~~
 
 ## Таблица разделов
 <img width="726" height="240" alt="image" src="https://github.com/user-attachments/assets/f9d6e842-4b14-446f-bd18-64f1ba1b39c7" />
